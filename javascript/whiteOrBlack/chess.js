@@ -1,3 +1,10 @@
+// Complete the function that returns the color of the given square on a normal, 8x8 chess board:
+
+// Examples
+// "a", 8  ==>  "white"
+// "b", 2  ==>  "black"
+// "f", 5  ==>  "white"
+
 function mineColor(line, number) {
   var black = [
     "black",
